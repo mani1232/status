@@ -17,9 +17,9 @@ sites:
     url: https://utils.worldmandia.cc
     expectedStatusCodes:
       - 403
-  - name: node-1
+  - name: node-1-proxy
     url: play.worldmandia.cc
-    port: 80
+    port: 25565
     check: "tcp-ping"
     ipv6: true
 
