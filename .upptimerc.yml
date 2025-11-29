@@ -7,16 +7,16 @@ sites:
     url: https://www.google.com
   - name: Panel
     url: https://custom.worldmandia.cc
-    expectedStatusCodes:
-      - 403
+    headers:
+      - "User-Agent: uptime"
   - name: Cloud
     url: https://cloud.worldmandia.cc
-    expectedStatusCodes:
-      - 403
+    headers:
+      - "User-Agent: uptime"
   - name: Utils
     url: https://utils.worldmandia.cc
-    expectedStatusCodes:
-      - 403
+    headers:
+      - "User-Agent: uptime"
   - name: node-1-proxy
     url: play.worldmandia.cc
     port: 25565
@@ -31,7 +31,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.worldmandia.cc
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://github.com/mani1232/status/blob/master/assets/server-icon.png?raw=true
   name: "WorldMandia status"
   introTitle: "Status page of WorldMandia services"
   introMessage: "For personal use"
