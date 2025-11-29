@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/custom.worldmandia.cc.ico",
     "slug": "panel",
     "status": "up",
-    "uptime": "73.96%",
-    "uptimeDay": "73.96%",
-    "uptimeWeek": "73.96%",
-    "uptimeMonth": "73.96%",
-    "uptimeYear": "73.96%",
+    "uptime": "74.14%",
+    "uptimeDay": "74.14%",
+    "uptimeWeek": "74.14%",
+    "uptimeMonth": "74.14%",
+    "uptimeYear": "74.14%",
     "time": 124,
     "timeDay": 124,
     "timeWeek": 124,
@@ -43,19 +43,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/cloud.worldmandia.cc.ico",
     "slug": "cloud",
     "status": "up",
-    "uptime": "1.04%",
-    "uptimeDay": "1.04%",
-    "uptimeWeek": "1.04%",
-    "uptimeMonth": "1.04%",
-    "uptimeYear": "1.04%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 153,
     "timeDay": 153,
     "timeWeek": 153,
     "timeMonth": 153,
     "timeYear": 153,
-    "dailyMinutesDown": {
-      "2025-11-29": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Utils",
@@ -63,19 +61,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/utils.worldmandia.cc.ico",
     "slug": "utils",
     "status": "up",
-    "uptime": "1.32%",
-    "uptimeDay": "1.32%",
-    "uptimeWeek": "1.32%",
-    "uptimeMonth": "1.32%",
-    "uptimeYear": "1.32%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 145,
     "timeDay": 145,
     "timeWeek": 145,
     "timeMonth": 145,
     "timeYear": 145,
-    "dailyMinutesDown": {
-      "2025-11-29": 11
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "node-1",
