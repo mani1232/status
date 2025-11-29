@@ -5,12 +5,11 @@ repo: status # The name of this repository
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Panel
-    url: https://custom.worldmandia.cc
-  - name: Cloud
-    url: https://cloud.worldmandia.cc
-  - name: Utils
-    url: https://utils.worldmandia.cc
+  - name: node-1-nginx
+    url: play.worldmandia.cc
+    port: 443
+    check: "tcp-ping"
+    ipv6: false
   - name: node-1-proxy
     url: play.worldmandia.cc
     port: 25565
