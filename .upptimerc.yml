@@ -21,7 +21,7 @@ sites:
     url: play.worldmandia.cc
     port: 25565
     check: "tcp-ping"
-    ipv6: true
+    ipv6: false
 
 assignees: # Users to assign downtime issues (optional)
   - mani1232
