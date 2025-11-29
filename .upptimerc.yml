@@ -7,9 +7,15 @@ sites:
     url: https://www.google.com
   - name: Panel
     url: https://custom.worldmandia.cc
+    headers:
+      - "User-Agent: WM uptime"
   - name: Cloud
     url: https://cloud.worldmandia.cc
+    headers:
+      - "User-Agent: WM uptime"
   - name: Utils
+    headers:
+      - "User-Agent: WM uptime"
     url: https://utils.worldmandia.cc
   - name: Minecraft Velocity
     url: play.worldmandia.cc
