@@ -7,16 +7,10 @@ sites:
     url: https://www.google.com
   - name: Panel
     url: https://custom.worldmandia.cc
-    headers:
-      - "User-Agent: uptime"
   - name: Cloud
     url: https://cloud.worldmandia.cc
-    headers:
-      - "User-Agent: uptime"
   - name: Utils
     url: https://utils.worldmandia.cc
-    headers:
-      - "User-Agent: uptime"
   - name: node-1-proxy
     url: play.worldmandia.cc
     port: 25565
