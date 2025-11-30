@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 173,
-    "timeDay": 173,
-    "timeWeek": 173,
-    "timeMonth": 173,
-    "timeYear": 173,
+    "time": 167,
+    "timeDay": 167,
+    "timeWeek": 167,
+    "timeMonth": 167,
+    "timeYear": 167,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 127,
-    "timeDay": 127,
-    "timeWeek": 127,
-    "timeMonth": 127,
-    "timeYear": 127,
+    "time": 119,
+    "timeDay": 119,
+    "timeWeek": 119,
+    "timeMonth": 119,
+    "timeYear": 119,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-1-proxy",
     "status": "up",
-    "uptime": "98.55%",
-    "uptimeDay": "98.55%",
-    "uptimeWeek": "98.55%",
-    "uptimeMonth": "98.55%",
-    "uptimeYear": "98.55%",
-    "time": 134,
-    "timeDay": 134,
-    "timeWeek": 134,
-    "timeMonth": 134,
-    "timeYear": 134,
-    "dailyMinutesDown": {
-      "2025-11-29": 1
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 130,
+    "timeDay": 130,
+    "timeWeek": 130,
+    "timeMonth": 130,
+    "timeYear": 130,
+    "dailyMinutesDown": {}
   }
 ]
