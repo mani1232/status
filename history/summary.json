@@ -6,18 +6,16 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.10%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 181,
-    "timeWeek": 126,
-    "timeMonth": 136,
-    "timeYear": 136,
-    "dailyMinutesDown": {
-      "2025-12-14": 13
-    }
+    "time": 135,
+    "timeDay": 187,
+    "timeWeek": 122,
+    "timeMonth": 135,
+    "timeYear": 135,
+    "dailyMinutesDown": {}
   },
   {
     "name": "node-1-nginx",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 92,
-    "timeWeek": 116,
-    "timeMonth": 120,
-    "timeYear": 120,
+    "time": 119,
+    "timeDay": 88,
+    "timeWeek": 108,
+    "timeMonth": 119,
+    "timeYear": 119,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 125,
-    "timeDay": 92,
-    "timeWeek": 117,
-    "timeMonth": 125,
-    "timeYear": 125,
+    "time": 124,
+    "timeDay": 89,
+    "timeWeek": 109,
+    "timeMonth": 124,
+    "timeYear": 124,
     "dailyMinutesDown": {}
   }
 ]
