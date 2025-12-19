@@ -22,10 +22,10 @@
     "url": "play.worldmandia.cc",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-1-nginx",
-    "status": "up",
+    "status": "down",
     "uptime": "99.68%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.12%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.11%",
     "uptimeMonth": "99.68%",
     "uptimeYear": "99.68%",
     "time": 120,
@@ -34,6 +34,7 @@
     "timeMonth": 120,
     "timeYear": 120,
     "dailyMinutesDown": {
+      "2025-12-19": 1,
       "2025-12-17": 22,
       "2025-12-16": 57,
       "2025-12-15": 10
@@ -44,9 +45,9 @@
     "url": "play.worldmandia.cc",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-1-proxy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.76%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.35%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.76%",
@@ -56,6 +57,7 @@
     "timeMonth": 123,
     "timeYear": 123,
     "dailyMinutesDown": {
+      "2025-12-19": 0,
       "2025-12-16": 57,
       "2025-12-15": 9
     }
