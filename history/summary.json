@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 161,
-    "timeDay": 77,
-    "timeWeek": 68,
-    "timeMonth": 79,
+    "timeDay": 58,
+    "timeWeek": 69,
+    "timeMonth": 77,
     "timeYear": 161,
     "dailyMinutesDown": {
       "2025-12-23": 43,
@@ -26,13 +26,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-1-nginx",
     "status": "down",
-    "uptime": "89.02%",
-    "uptimeDay": "99.70%",
+    "uptime": "88.68%",
+    "uptimeDay": "25.56%",
     "uptimeWeek": "45.86%",
-    "uptimeMonth": "74.18%",
-    "uptimeYear": "89.02%",
+    "uptimeMonth": "71.74%",
+    "uptimeYear": "88.68%",
     "time": 118,
-    "timeDay": 147,
+    "timeDay": 0,
     "timeWeek": 110,
     "timeMonth": 123,
     "timeYear": 118,
@@ -82,7 +82,8 @@
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 318,
-      "2026-06-09": 4
+      "2026-06-10": 208,
+      "2026-06-09": 864
     }
   },
   {
@@ -91,13 +92,13 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "node-1-proxy",
     "status": "down",
-    "uptime": "87.25%",
-    "uptimeDay": "99.99%",
+    "uptime": "86.92%",
+    "uptimeDay": "25.85%",
     "uptimeWeek": "45.90%",
-    "uptimeMonth": "74.21%",
-    "uptimeYear": "87.25%",
+    "uptimeMonth": "71.77%",
+    "uptimeYear": "86.92%",
     "time": 119,
-    "timeDay": 148,
+    "timeDay": 0,
     "timeWeek": 110,
     "timeMonth": 124,
     "timeYear": 119,
@@ -150,7 +151,8 @@
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 314,
-      "2026-06-09": 0
+      "2026-06-10": 208,
+      "2026-06-09": 860
     }
   }
 ]
